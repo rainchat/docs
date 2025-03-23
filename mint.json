@@ -1,5 +1,5 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
+  "$schema": "https://raincode.com/schema.json",
   "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://raincode.mintlify.com"
   },
   "tabs": [
     {
@@ -45,7 +45,7 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://raincode.mintlify.com/blog"
     }
   ],
   "navigation": [
